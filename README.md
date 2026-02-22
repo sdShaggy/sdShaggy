@@ -27,8 +27,8 @@
 
 ### AI / ML
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
@@ -41,12 +41,13 @@
 
 ## Featured Projects
 
-- [Load-Prediction-AI-model]([https://github.com/AnshArya927/Final-Proj](https://github.com/sdShaggy/Load-Prediction-AI-model)) – Collaborative Project.
+- [Load-Prediction-AI-model](https://github.com/sdShaggy/Load-Prediction-AI-model) – Collaborative Project.
 -  A comprehensive AI-based solution for next-day electricity peak load prediction in Delhi.This suite includes data scraping, preprocessing, advanced ML modeling, a live web dashboard (Flask), and detailed error visualization using Jupyter.
-  - Features: Daily Load Forecasting using ensemble ML models,Web Scraping from: SLDC (real-time DISCOM peak loads), Meteostat (weather features), and Public Holiday from www.qppstudio.net 
+  - Features: Daily Load Forecasting using ensemble ML models,Web Scraping from: SLDC (real-time DISCOM peak loads), Meteostat (weather features), and Public Holiday from www.qppstudio.net
+    
   ![](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) ![](https://img.shields.io/badge/-XGBOOST-blue?style=for-the-badge&logo=XGBOOST) ![](https://img.shields.io/badge/-Selenium-green?style=for-the-badge&logo=Selenium)
 
-- [RAG Chatbot](https://github.com/amonharsh/rag-chatbot) – Retrieval-Augmented Generation chatbot for querying company documents.  
+- [RAG Chatbot](https://github.com/amonharsh/rag-chatbot) – Retrieval-Augmented Generation chatbot for querying company documents.   
   - Built using Flask and Hugging Face pipelines.  
   - Handles Markdown, supports contextual answers, and integrates chat history storage.  
   ![](https://img.shields.io/badge/-RAG-blue?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) ![](https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface)
