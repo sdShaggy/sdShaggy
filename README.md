@@ -41,10 +41,10 @@
 
 ## Featured Projects
 
-- [Multi-Tenant AI Customer Support Chatbot (Flipr Hackathon)](https://github.com/AnshArya927/Final-Proj) – Team project built in a 72-hour hackathon.  
-  - Role: Major contributor (designed AI pipeline, chatbot logic, fallback to ticket creation, and agent dashboards).  
-  - Features: Multi-tenant chatbot using Hugging Face Transformers, real-time ticket triage, AI-powered agent assistance.  
-  ![](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) ![](https://img.shields.io/badge/-PyTorch-red?style=for-the-badge&logo=pytorch) ![](https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+- [Load-Prediction-AI-model]([https://github.com/AnshArya927/Final-Proj](https://github.com/sdShaggy/Load-Prediction-AI-model)) – Collaborative Project.
+-  A comprehensive AI-based solution for next-day electricity peak load prediction in Delhi.This suite includes data scraping, preprocessing, advanced ML modeling, a live web dashboard (Flask), and detailed error visualization using Jupyter.
+  - Features: Daily Load Forecasting using ensemble ML models,Web Scraping from: SLDC (real-time DISCOM peak loads), Meteostat (weather features), and Public Holiday from www.qppstudio.net 
+  ![](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) ![](https://img.shields.io/badge/-XGBOOST-blue?style=for-the-badge&logo=XGBOOST) ![](https://img.shields.io/badge/-Selenium-green?style=for-the-badge&logo=Selenium)
 
 - [RAG Chatbot](https://github.com/amonharsh/rag-chatbot) – Retrieval-Augmented Generation chatbot for querying company documents.  
   - Built using Flask and Hugging Face pipelines.  
