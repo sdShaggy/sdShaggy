@@ -15,6 +15,12 @@
 
 ---
 
+## 📄 Resume  
+
+[![Resume](https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bkafiZSs19zoejFEdTAm1HKWlJPX7wZY/view?usp=drive_link)
+
+---
+
 ## 🧠 Tech Stack  
 
 ### 👨‍💻 Languages  
@@ -80,8 +86,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-red?style=for-the-badge)
 ![IIIT](https://img.shields.io/badge/IIIT%20Allahabad-AI%20%26%20Robotics%20Training-maroon?style=for-the-badge)
 
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**  
-- **AI & Robotics Summer Training – IIIT Allahabad**  
+- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
+  🔗 [View Certificate](https://drive.google.com/file/d/16Di-g-60mz6vB3cVzw3DMt4OW0nYOK1p/view?usp=drive_link)
+- **AI & Robotics Summer Training – IIIT Allahabad**
+  🔗 [View Certificate](https://drive.google.com/file/d/1acXYkWJQDEz9kciZtgUbKX3aQEQC6PcZ/view?usp=drive_link)
 
 ---
 
