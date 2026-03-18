@@ -1,4 +1,4 @@
-# Hi, I'm Sarvagya Dwivedi 👋  
+# Hi, I'm Sarvagya Dwivedi 
 
 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra  
 📊 GPA: 8.28  
@@ -101,14 +101,6 @@
 - Manager, Club Tennis BIT Patna
 - Participated in collaborative academic, sports & technical initiatives  
 - Volunteer, Prakrida '24 Annual Sports event at BIT Patna
-
----
-
-## 📊 GitHub Stats  
-
-![Sarvagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdShaggy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdShaggy&layout=compact&theme=radical)
 
 ---
 
