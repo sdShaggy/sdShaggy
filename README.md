@@ -1,8 +1,8 @@
 # Hi, I'm Sarvagya Dwivedi 
 
 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra  
-📊 GPA: 8.28  
-🤖 GenAI | Machine Learning | RAG Systems | Multimodal AI  
+📊 GPA: 8.29  
+🤖 GenAI | Machine Learning | RAG Systems | Multimodal AI | Python
 
 ---
 
