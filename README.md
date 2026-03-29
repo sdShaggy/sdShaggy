@@ -54,7 +54,16 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+### 🤖 Robotics Stack
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-3C3C3C?style=for-the-badge)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
 
 ---
 
@@ -91,7 +100,7 @@
 🔗 https://github.com/sdShaggy/Create-Your-Website-AI
 
 - Built an AI system that **generates full websites from prompts (GenAI + frontend automation)**  
-- Implemented backend API pipeline (FastAPI/Flask) for real-time generation 
+- Implemented backend API pipeline (FastAPI) for real-time generation 
 - Integrated **LLM-based code generation + rendering pipeline**
 - Focused on automation of frontend engineering workflows
 
