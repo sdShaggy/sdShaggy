@@ -10,7 +10,7 @@
 
 - Building **end-to-end AI systems**, not just models  
 - Experienced in **Generative AI, RAG pipelines, and multimodal ML**  
-- Strong focus on **real-world deployment using Flask & automated pipelines**  
+- Strong focus on **real-world deployment using automated pipelines**  
 - Interested in **AI/ML Engineering & GenAI roles**  
 
 ---
@@ -28,6 +28,9 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 AI / ML  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -39,16 +42,19 @@
 ### 🧠 GenAI & RAG  
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge)
 
 ### 🌐 Backend & Tools  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
@@ -81,6 +87,16 @@
 
 ---
 
+### 💻 Create Your Website AI 
+🔗 https://github.com/sdShaggy/Create-Your-Website-AI
+
+- Built an AI system that **generates full websites from prompts (GenAI + frontend automation)**  
+- Implemented backend API pipeline (FastAPI/Flask) for real-time generation 
+- Integrated **LLM-based code generation + rendering pipeline**
+- Focused on automation of frontend engineering workflows
+
+---
+
 ## 🏆 Certifications  
 
 ![Oracle](https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-red?style=for-the-badge)
@@ -96,7 +112,8 @@
 ## 🤝 Interpersonal Skills  
 
 - Problem Solving  
-- Team Collaboration  
+- Team Collaboration
+- Leadership
 - Technical Communication  
 - Documentation & Presentation  
 
@@ -106,10 +123,12 @@
 
 - Student Member, **ACM (Association for Computing Machinery)**
 - Chairperson, BIT Patna ACM Student Chapter
+- College Level Tennis Player. Represented my college at Inter-College Tournaments such as Infinito - IIT Patna, and Prakrida - BIT Patna
 - Manager, Club Tennis BIT Patna
 - Participated in collaborative academic, sports & technical initiatives  
 - Volunteer, Prakrida '24 Annual Sports event at BIT Patna
-
+- Volunteer, NPTIS 2025 Annual Conference @ BIT Mesra, Patna Campus
+  
 ---
 
 ## 📫 Connect with Me  
