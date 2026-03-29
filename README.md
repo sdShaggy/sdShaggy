@@ -131,7 +131,7 @@
 
 - Student Member, **ACM (Association for Computing Machinery)**
 - Chairperson, BIT Patna ACM Student Chapter
-- College Level Tennis Player. Represented my college at Inter-College Tournaments such as Infinito - IIT Patna, and Prakrida - BIT Patna
+- Represented my college at Inter-College Tennis Tournaments such as Infinito - IIT Patna, and Prakrida - BIT Patna
 - Manager, Club Tennis BIT Patna
 - Participated in collaborative academic, sports & technical initiatives  
 - Volunteer, Prakrida '24 Annual Sports event at BIT Patna
