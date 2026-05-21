@@ -82,17 +82,8 @@
 
 - Multimodal ML using **Transformer text embeddings + CLIP image embeddings**  
 - Engineered **3584-dimension feature space**  
-- 📊 **SMAPE: 45.02 | Ranked 151 All India**  
-
----
-
-### 📄 SumPre - RAG-based Document Intelligence  
-🔗 https://github.com/sdShaggy/rag-slidebot-SumPre  
-
-- Built a **GenAI chatbot for PDF/PPT summarization + Q&A**  
-- Implemented **RAG pipeline (LangChain + FAISS + Gemini API)**  
-- End-to-end system: ingestion → retrieval → generation  
-
+- 📊 **SMAPE: 45.02 | Ranked 151 All India**
+  
 ---
 
 ### 💻 Create Your Website AI 
@@ -102,6 +93,8 @@
 - Implemented backend API pipeline (FastAPI) for real-time generation 
 - Integrated **LLM-based code generation + rendering pipeline**
 - Focused on automation of frontend engineering workflows
+ 
+---
 
 ### 📈 Execra Research Evaluation Framework
 🔗 https://github.com/sahoo-tech/Execra/pull/182
@@ -141,9 +134,9 @@
 - Represented my college at Inter-College Tennis Tournaments such as **Infinito - IIT Patna**, and **Prakrida - BIT Patna**
 - Manager, **Club Tennis BIT Patna**
 - Participated in collaborative academic, sports & technical initiatives
-- Contributor **GSSoC '26**
+- Contributor @ **GSSoC '26**
 - Volunteer, **Prakrida '24** and **Prakrida '26** Annual Sports event at BIT Patna
-- Winner at Prakrida '26 Tennis Men's Team Event
+- Winner at Prakrida '26 Lawn Tennis Men's Team Event
 - Volunteer, NPTIS 2025 Annual Conference @ BIT Mesra, Patna Campus
   
 ---
