@@ -86,7 +86,7 @@
 
 ---
 
-### 📄 SumPre – RAG-based Document Intelligence  
+### 📄 SumPre - RAG-based Document Intelligence  
 🔗 https://github.com/sdShaggy/rag-slidebot-SumPre  
 
 - Built a **GenAI chatbot for PDF/PPT summarization + Q&A**  
@@ -103,6 +103,13 @@
 - Integrated **LLM-based code generation + rendering pipeline**
 - Focused on automation of frontend engineering workflows
 
+### 📈 Execra Research Evaluation Framework
+🔗 https://github.com/sahoo-tech/Execra/pull/182
+
+- Built reproducible testing pipelines using Makefiles to automate complex evaluation steps and dataset-driven validation as part of **GSSoC '26** Program.
+- Programmed statistical benchmarks including Expected Calibration Error (ECE), F1-scores, and Expected Latency to measure AI code guidance performance.
+- Implemented deterministic control scripts (no-guidance, random choice, and single-LLM) to establish clear data comparisons.
+
 ---
 
 ## 🏆 Certifications  
@@ -112,7 +119,7 @@
 
 - **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
   🔗 [View Certificate](https://drive.google.com/file/d/16Di-g-60mz6vB3cVzw3DMt4OW0nYOK1p/view?usp=drive_link)
-- **AI & Robotics Summer Training – IIIT Allahabad**
+- **AI & Robotics Summer Training – Centre of Intelligent Robotics, IIIT Allahabad**
   🔗 [View Certificate](https://drive.google.com/file/d/1acXYkWJQDEz9kciZtgUbKX3aQEQC6PcZ/view?usp=drive_link)
 
 ---
@@ -130,11 +137,13 @@
 ## 🌱 Volunteering & Activities  
 
 - Student Member, **ACM (Association for Computing Machinery)**
-- Chairperson, BIT Patna ACM Student Chapter
-- Represented my college at Inter-College Tennis Tournaments such as Infinito - IIT Patna, and Prakrida - BIT Patna
-- Manager, Club Tennis BIT Patna
-- Participated in collaborative academic, sports & technical initiatives  
-- Volunteer, Prakrida '24 Annual Sports event at BIT Patna
+- Chairperson, **BIT Patna ACM Student Chapter**
+- Represented my college at Inter-College Tennis Tournaments such as **Infinito - IIT Patna**, and **Prakrida - BIT Patna**
+- Manager, **Club Tennis BIT Patna**
+- Participated in collaborative academic, sports & technical initiatives
+- Contributor **GSSoc '26**
+- Volunteer, **Prakrida '24** and **Prakrida '26** Annual Sports event at BIT Patna
+- Winner at Prakrida '26 Tennis Men's Team Event
 - Volunteer, NPTIS 2025 Annual Conference @ BIT Mesra, Patna Campus
   
 ---
@@ -149,6 +158,7 @@
 
 ## ⚡ Current Focus  
 
-- Multimodal RAG systems  
+- Multimodal and Agentic RAG systems  
 - End-to-end ML pipelines & MLOps  
-- Scalable GenAI applications  
+- Generative Adversarial Networks
+- Frontend Technologies
