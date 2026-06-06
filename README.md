@@ -1,7 +1,7 @@
 # Hi, I'm Sarvagya Dwivedi 
 
 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra  
-📊 GPA: 8.29  
+📊 GPA: 8.29/10 \
 🤖 GenAI | Machine Learning | RAG Systems | Multimodal AI | Python
 
 ---
@@ -17,19 +17,23 @@
 
 ## 📄 Resume  
 
-[![Resume](https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bkafiZSs19zoejFEdTAm1HKWlJPX7wZY/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1c3dM7ENWA2ow90HlgokcrLZ2Uxr0JJtC/view?usp=sharing)
 
 ---
 
-## 🏢 Experience
+## 💼 Experience
 
-### Engineering Intern | Veridian Carbon
+### Veridian Carbon
+*Engineering Intern* \
 May 2026 - Present | Remote  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+- Developing and enhancing production web applications and platform features using React, TypeScript, Tailwind CSS, and Node.js.
+- Collaborating directly with engineering leadership to design, implement, and ship platform enhancements in an early-stage startup environment.
 
 
 ---
@@ -45,14 +49,14 @@ May 2026 - Present | Remote
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI / ML  
+### ֎ AI / ML  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white)
 
-### 🧠 GenAI & RAG  
+### ✦ GenAI & RAG  
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
@@ -122,12 +126,15 @@ May 2026 - Present | Remote
 
 ![Oracle](https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-red?style=for-the-badge)
 ![IIIT](https://img.shields.io/badge/IIIT%20Allahabad-AI%20%26%20Robotics%20Training-maroon?style=for-the-badge)
+![BCG](https://img.shields.io/badge/%20Forage-BCG%20Data%20Science%20Job%20Simulation-007B5D?style=for-the-badge&labelColor=0467D7)
 
 - **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
   🔗 [View Certificate](https://drive.google.com/file/d/16Di-g-60mz6vB3cVzw3DMt4OW0nYOK1p/view?usp=drive_link)
 - **AI & Robotics Summer Training – Centre of Intelligent Robotics, IIIT Allahabad**
   🔗 [View Certificate](https://drive.google.com/file/d/1acXYkWJQDEz9kciZtgUbKX3aQEQC6PcZ/view?usp=drive_link)
-
+- **BCG Data Science Job Simulation - Forage**
+  🔗 [View Certificate](https://drive.google.com/file/d/1ysFtSPVfyeu2WA1Atc0oGGDL99DKeQso/view?usp=drive_link)
+  
 ---
 
 ## 🤝 Interpersonal Skills  
@@ -162,7 +169,7 @@ May 2026 - Present | Remote
 
 ---
 
-## ⚡ Current Focus  
+## 𖣠 Current Focus  
 
 - Multimodal and Agentic RAG systems  
 - End-to-end ML pipelines & MLOps  
