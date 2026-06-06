@@ -147,8 +147,8 @@ May 2026 - Present | Remote
 - Represented my college at Inter-College Tennis Tournaments such as **Infinito - IIT Patna**, and **Prakrida - BIT Patna**
 - Manager, **Club Tennis BIT Patna**
 - Participated in collaborative academic, sports & technical initiatives
-- Contributor @ **GSSoC '26**
-- Volunteer, **Prakrida '24** and **Prakrida '26** Annual Sports event at BIT Patna
+- Open-Source Contributor @ **GSSoC '26**
+- Volunteer, **Prakrida '24** and **Prakrida '26** Annual Sports fest at BIT Patna
 - Winner at Prakrida '26 Lawn Tennis Men's Team Event
 - Volunteer, NPTIS 2025 Annual Conference @ BIT Mesra, Patna Campus
   
