@@ -17,7 +17,7 @@
 
 ## 📄 Resume  
 
-[![Resume](https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1c3dM7ENWA2ow90HlgokcrLZ2Uxr0JJtC/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1gSK254XdmzHBRkPVMjJZYPew_9WSl0eO/view?usp=sharing)
 
 ---
 
