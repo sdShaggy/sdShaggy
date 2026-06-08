@@ -129,9 +129,9 @@ May 2026 - Present | Remote
 ![BCG](https://img.shields.io/badge/%20Forage-BCG%20Data%20Science%20Job%20Simulation-007B5D?style=for-the-badge&labelColor=0467D7)
 
 - **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
-  🔗 [View Certificate](https://drive.google.com/file/d/16Di-g-60mz6vB3cVzw3DMt4OW0nYOK1p/view?usp=drive_link)
+  🔗 [View Certificate](https://drive.google.com/file/d/1CPI58jYeUy4FurUl643A7k9tjAscSp5Q/view?usp=sharing)
 - **AI & Robotics Summer Training – Centre of Intelligent Robotics, IIIT Allahabad**
-  🔗 [View Certificate](https://drive.google.com/file/d/1acXYkWJQDEz9kciZtgUbKX3aQEQC6PcZ/view?usp=drive_link)
+  🔗 [View Certificate](https://drive.google.com/file/d/1Oe2JA0xRR3rzH9TYIukls4sBEUtyWvib/view?usp=sharing)
 - **BCG Data Science Job Simulation - Forage**
   🔗 [View Certificate](https://drive.google.com/file/d/1ysFtSPVfyeu2WA1Atc0oGGDL99DKeQso/view?usp=drive_link)
   
