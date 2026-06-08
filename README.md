@@ -1,8 +1,8 @@
 # Hi, I'm Sarvagya Dwivedi 
 
 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra  
-📊 GPA: 8.29/10 \
-🤖 GenAI | Machine Learning | RAG Systems | Multimodal AI | Python
+📶 GPA: 8.29/10 \
+🛠️ GenAI | Machine Learning | RAG Systems | Multimodal AI | Python
 
 ---
 
@@ -127,6 +127,7 @@ May 2026 - Present | Remote
 ![Oracle](https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-red?style=for-the-badge)
 ![IIIT](https://img.shields.io/badge/IIIT%20Allahabad-AI%20%26%20Robotics%20Training-maroon?style=for-the-badge)
 ![BCG](https://img.shields.io/badge/%20Forage-BCG%20Data%20Science%20Job%20Simulation-007B5D?style=for-the-badge&labelColor=0467D7)
+![JPMC](https://img.shields.io/badge/Forage-JPMC%20Software%20Engineering%20Job%20Simulation-5A3E2B?style=for-the-badge&labelColor=0467D7)
 ![IITP](https://img.shields.io/badge/Celesta-IIT%20Patna-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
 - **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
@@ -135,6 +136,8 @@ May 2026 - Present | Remote
   🔗 [View Certificate](https://drive.google.com/file/d/1Oe2JA0xRR3rzH9TYIukls4sBEUtyWvib/view?usp=sharing)
 - **BCG Data Science Job Simulation - Forage**
   🔗 [View Certificate](https://drive.google.com/file/d/1ysFtSPVfyeu2WA1Atc0oGGDL99DKeQso/view?usp=drive_link)
+- **JP Morgan Chase and Co. Software Engineering Job Simulation - Forage**
+  🔗 [View Certificate](https://drive.google.com/file/d/1fKXjWxFK9KlVR_GGM4srqS2aYNf-QbXN/view?usp=sharing)
 - **Android App Development using Kotlin - Celesta, IIT Patna**
   🔗 [View Certificate](https://drive.google.com/file/d/1qaSo39TVwHr6XG7ZNbvZx1HFc5FCmwlI/view?usp=sharing)
   
@@ -156,7 +159,6 @@ May 2026 - Present | Remote
 - Chairperson, **BIT Patna ACM Student Chapter**
 - Represented my college at Inter-College Tennis Tournaments such as **Infinito - IIT Patna**, and **Prakrida - BIT Patna**
 - Manager, **Club Tennis BIT Patna**
-- Participated in collaborative academic, sports & technical initiatives
 - Open-Source Contributor @ **GSSoC '26**
 - Volunteer, **Prakrida '24** and **Prakrida '26** Annual Sports fest at BIT Patna
 - Winner at Prakrida '26 Lawn Tennis Men's Team Event
