@@ -122,6 +122,14 @@ May 2026 - Present | Remote
 - Implemented deterministic control scripts (no-guidance, random choice, and single-LLM) to establish clear data comparisons.
 
 ---
+### 🌐 Personal Portfolio Website
+🔗 https://github.com/sdShaggy/Sarvagya-Dwivedi
+
+- Built with **Vite + React + TypeScript + Tailwind CSS** deployed on GitHub Pages
+- Features sections for Projects, Skills, Certifications, Experience, and Gallery
+- Currently optimizing for **mobile and tablet responsiveness**
+
+---
 
 ## 🏆 Certifications  
 
