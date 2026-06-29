@@ -2,7 +2,8 @@
 
 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra  
 📶 GPA: 8.29/10 \
-🛠️ GenAI | Machine Learning | RAG Systems | Multimodal AI | Python
+🛠️ GenAI | Machine Learning | RAG Systems | Multimodal AI | Python \
+🌐 Website: https://sdshaggy.github.io/Sarvagya-Dwivedi
 
 ---
 
@@ -130,9 +131,9 @@ May 2026 - Present | Remote
 ![JPMC](https://img.shields.io/badge/Forage-JPMC%20Software%20Engineering%20Job%20Simulation-5A3E2B?style=for-the-badge&labelColor=0467D7)
 ![IITP](https://img.shields.io/badge/Celesta-IIT%20Patna-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF)
 
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 - AI Foundations Associate**
   🔗 [View Certificate](https://drive.google.com/file/d/1CPI58jYeUy4FurUl643A7k9tjAscSp5Q/view?usp=sharing)
-- **AI & Robotics Summer Training – Centre of Intelligent Robotics, IIIT Allahabad**
+- **AI & Robotics Summer Training - Centre of Intelligent Robotics, IIIT Allahabad**
   🔗 [View Certificate](https://drive.google.com/file/d/1Oe2JA0xRR3rzH9TYIukls4sBEUtyWvib/view?usp=sharing)
 - **BCG Data Science Job Simulation - Forage**
   🔗 [View Certificate](https://drive.google.com/file/d/1ysFtSPVfyeu2WA1Atc0oGGDL99DKeQso/view?usp=drive_link)
@@ -168,9 +169,10 @@ May 2026 - Present | Remote
 
 ## 📫 Connect with Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvagyadwivedi0308@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagya-dwivedi-4b1934295)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdShaggy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvagyadwivedi0308@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FAFAF7?style=for-the-badge&logo=github&logoColor=black)](https://sdshaggy.github.io/Sarvagya-Dwivedi/)
 
 ---
 
