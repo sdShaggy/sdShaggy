@@ -33,8 +33,8 @@ May 2026 - Jul 2026 | Remote
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-- Developing and enhancing production web applications and platform features using React, TypeScript, Tailwind CSS, and Node.js.
-- Collaborating directly with engineering leadership to design, implement, and ship platform enhancements in an early-stage startup environment.
+- Developed and helped enhancing production web applications and platform features using React, TypeScript, Tailwind CSS, and Node.js.
+- Collaborated directly with engineering leadership to design, implement, and ship platform enhancements in an early-stage startup environment.
 
 
 ---
