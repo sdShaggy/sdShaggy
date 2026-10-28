@@ -1,7 +1,6 @@
 # Hi, I'm Sarvagya Dwivedi 
 
 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra  
-📶 GPA: 8.26/10 \
 📍 Varanasi, India \
 🛠️ GenAI | Machine Learning | RAG Systems | Multimodal AI | Python | Software Engineering \
 🌐 Website: https://sdshaggy.github.io/Sarvagya-Dwivedi
@@ -28,7 +27,7 @@
 
 ### Birla Institute of Technology, Mesra
 *B.Tech in Computer Science and Engineering* \
-Sep 2023 - Sep 2027 | GPA: 8.29/10 
+Sep 2023 - Sep 2027 | GPA: 8.26/10 
 
 **Relevant Coursework:** Data Structures, Algorithms, DBMS, Data Mining, NLP, Software Engineering, AI and ML
 
